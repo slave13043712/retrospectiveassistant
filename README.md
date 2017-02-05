@@ -7,9 +7,14 @@ Have you ever been in situation when [retrospective](https://en.wikipedia.org/wi
 1. Clone this project;
 2. Run the script to bring your retrospective meeting to the whole new level;
 
-## Coming Soon
-1. Docker integration;
-2. ..?
+or
+
+1. Clone this project;
+2. Run a lightweight docker container;
+```
+docker build -t scrum:retro .
+docker run -i scrum:retro
+```
 
 ## How to Contribute
 1. Fork this project;

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Retrospective Assistant 3000. Makes your SCRUM ceremonies faster.
 #
